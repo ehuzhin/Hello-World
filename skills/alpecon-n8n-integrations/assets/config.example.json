@@ -1,0 +1,7 @@
+{
+  "task_id": "REPLACE_TASK_UUID",
+  "openai_model": "SELECT_OPENAI_MODEL",
+  "anthropic_model": "SELECT_CLAUDE_MODEL",
+  "dropbox_folder": "/ALPECON_AI_TEST",
+  "credential_ids": {"openai": "", "anthropic": "", "yougile": "", "dropbox": "", "webhook": ""}
+}
