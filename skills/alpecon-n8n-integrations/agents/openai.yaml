@@ -1,0 +1,4 @@
+interface:
+  display_name: "ALPECON n8n Integrations"
+  short_description: "Развёртывание связки n8n, ИИ, Dropbox и YouGile"
+  default_prompt: "Используй $alpecon-n8n-integrations для настройки и проверки интеграций ALPECON в n8n Cloud."
